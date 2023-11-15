@@ -1,6 +1,6 @@
 # Parts Worker
 
-My fifth assignment in Java:
+My fifth assignment in Java completed in **18/04/2021**:
 
 Modify the Payroll system to include an additional Employee subclass PartsWorker that represents an employee whose pay is based on the number of
 pieces of merchandise produced. For example, if the employee earns €5 for each part produced and he/she produces 20 parts then total payment is €100.
